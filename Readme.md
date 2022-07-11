@@ -1,7 +1,7 @@
 # Hand Gesture Recognition
  Hand Gesture Recognition using CNN+LSTM/3D CNN
 
-## Hand Gesture Recognition
+## Experiments Performed
 
 ### CNN+LSTM
 
