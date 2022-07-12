@@ -1,6 +1,14 @@
 # Hand Gesture Recognition - Video Classification
  Hand Gesture Recognition using CNN+LSTM/3D CNN
 
+## Table of Contents
+* [Problem Statement](#general-information)
+* [Experiments Performed](#experiments-performed)
+* [Technologies Used](#conclusions)
+* [References](#references)
+* [Contact](#contact)
+
+
 ## Problem Statement
 - To develop a cool feature in the smart-TV that can recognise five different gestures performed by the user which will help users control the TV without using a remote
 - The gestures are continuously monitored by the webcam mounted on the TV. Each gesture corresponds to a specific command:
@@ -37,6 +45,13 @@
    (experimenting with the model)
 
    
+## Technologies Used
+- Python 
+- Keras
+- Tensorflow
+
+<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
+
 ## References
 
 - [Human Activity Recognition using TensorFlow](https://youtu.be/QmtSkq3DYko)
@@ -44,3 +59,7 @@
 - https://github.com/0aqz0/SLR
 - https://github.com/anujshah1003/custom_data_generator/tree/master/activity_recognition
 - https://github.com/HHTseng/video-classification
+
+
+## Contact
+Created by [@scpowar](https://github.com/scpowar) - feel free to contact me!
