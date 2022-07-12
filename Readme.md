@@ -16,11 +16,11 @@
 
 1. **four layers of Conv2d + one layer of LSTM**
 
-   | Best Val Acc  | Best Val Loss  | Best Val Acc  | Best Val Loss  |
-   | ------------- | -------------- | ------------- | -------------- |
-   | 74.00%        | 0.8338         | 74.00%        | 0.8338         |
+   | Best Val Acc  | Best Val Loss  |
+   | ------------- | -------------- | 
+   | 74.00%        | 0.8338         |
 
-- model overfitting on the train data
+   - model overfitting on the train data
 
 2. **four layers of Conv2d + one layer of LSTM - adding droput layer**  
 
