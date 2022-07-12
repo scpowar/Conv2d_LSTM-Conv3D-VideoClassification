@@ -1,4 +1,4 @@
-# Hand Gesture Recognition
+# Hand Gesture Recognition - Video Classification
  Hand Gesture Recognition using CNN+LSTM/3D CNN
 
 ## Problem Statement
@@ -28,7 +28,7 @@
    | ------------- | -------------- |
    | 74.00%        | 0.768570       |
 
-   - need to increase the dropout layer percent as the model is still overfiting on the train data
+   - need to increase the dropout layer percent as the model is still overfitting on the train data
    - Hyper-parameter tuning required
 
 ### 3D CNN
